@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/logo.png" width="120" alt="Motion Capture logo">
-</p>
+![Uploading logo.png…]()
+
 
 <h1 align="center">Motion Capture</h1>
 
