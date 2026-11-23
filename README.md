@@ -1,4 +1,4 @@
-![Uploading logo.png…]()
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/88e8eb8b-2440-46ea-b77d-1196f177d859" />
 
 
 <h1 align="center">Motion Capture</h1>
