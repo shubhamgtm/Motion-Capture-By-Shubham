@@ -1,0 +1,21 @@
+# build output
+dist/
+*.o
+*.obj
+*.exe
+*.res
+
+# recordings
+*.mp4
+*.mkv
+
+# ffmpeg binary, download it yourself (see third_party/ffmpeg/README.txt)
+third_party/ffmpeg/*
+!third_party/ffmpeg/README.txt
+
+# editor / OS junk
+.vscode/
+.vs/
+Thumbs.db
+desktop.ini
+*.zip
