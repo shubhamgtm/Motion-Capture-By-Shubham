@@ -1,6 +1,6 @@
-<center> <img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/88e8eb8b-2440-46ea-b77d-1196f177d859" />
-</center>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88e8eb8b-2440-46ea-b77d-1196f177d859" width="120" alt="Motion Capture logo">
+</p>
 <h1 align="center">Motion Capture</h1>
 
 <p align="center">
