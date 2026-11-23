@@ -1,3 +1,4 @@
+https://cdn.discordapp.com/attachments/1548565370418503830/1574421767802593452/Screenshot_2026-11-23_193419.png?ex=6b059608&is=6b044488&hm=91f5d66fac761ec3f7c50e4123576a14de64ecae76a17d065e62abfde950db53&
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88e8eb8b-2440-46ea-b77d-1196f177d859" width="120" alt="Motion Capture logo">
 </p>
